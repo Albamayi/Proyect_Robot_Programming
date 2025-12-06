@@ -1,0 +1,3 @@
+---
+int32 current_score
+int32 high_score

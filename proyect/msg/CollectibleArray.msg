@@ -1,0 +1,1 @@
+proyect/Collectible[] collectibles
